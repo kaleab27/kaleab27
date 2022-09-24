@@ -11,6 +11,8 @@ Also big **anime** fan.
 
 
 > **_DON'T COUNT THE DAYS, MAKE THE DAYS COUNT_**
+>
+> -- <cite>Muhammad Ali</cite>
 
 ### Contact Me
 
