@@ -1,6 +1,6 @@
 ![Hi there 👋](/assets/img.png)
 
-# **I am Kaleab, Front-End Developer**
+# **I am Kaleab, Sofware Developer**
 
 I am currently an Undergraduate Engineering student, learning and working on my side projects side by side with my education.
 Also a huge **anime** fan (🍥🍜🦊Naruto).
