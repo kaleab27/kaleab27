@@ -1,11 +1,11 @@
 ![Hi there 👋](/assets/img.png)
 
-# **I am kaleab, Front-End Developer**
+# **I am Kaleab, Front-End Developer**
 
-I am currently an Undergrad Engineering student, learning and working on my side projects side by side with my education.
-Also big **anime** fan.
+I am currently an Undergraduate Engineering student, learning and working on my side projects side by side with my education.
+Also a huge **anime** fan (🍥🍜🦊Naruto).
 
-- 🔭 I’m currently working on [Telegram Bot](https://github.com/kaleab27/my_telegram_bot)
+- 🔭 I’m currently working on an [App](https://github.com/kaleab27/GbiSms) for a church group
 - 🌱 I’m currently learning Data structures and Algorithms
 - 👯 I’m looking to collaborate on Open Source Projects
 
