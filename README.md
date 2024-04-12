@@ -2,7 +2,7 @@
 
 # **I am Kaleab, Sofware Developer**
 
-I am currently an Undergraduate Engineering student, learning and working on my side projects side by side with my education.
+I am currently an Undergraduate Engineering student, learning and working on projects side by side with my education.
 Also a huge **anime** fan (🍥🍜🦊Naruto).
 
 - 🔭 I’m currently working on an [App](https://github.com/kaleab27/GbiSms) for a church group
