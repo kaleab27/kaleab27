@@ -5,8 +5,8 @@
 I am currently an Undergraduate Engineering student, learning and working on projects side by side with my education.
 Also a huge **anime** fan (🍥🍜🦊Naruto).
 
-- 🔭 I’m currently working on an [App](https://github.com/kaleab27/GbiSms) for a church group
-- 🌱 I’m currently learning Data structures and Algorithms
+- 🔭 I’m currently working on a website for a church group in my University
+- 🌱 I’m currently learning to reacreate enterprise tools like git and reddis.
 - 👯 I’m looking to collaborate on Open Source Projects
 
 
