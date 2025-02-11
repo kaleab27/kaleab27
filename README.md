@@ -2,7 +2,7 @@
 
 # **I am Kaleab, Sofware Developer**
 
-I am currently an Undergraduate Engineering student, learning, doing some fleelancing and working on my personal projects side by side.
+I am currently an Undergraduate Engineering student, learning, doing some freelancing and working on my personal projects side by side.
 Also a huge **anime** fan (🍥🍜🦊Naruto).
 
 - 🔭 I’m currently working on a Admin Dashboard for a church group in my University
